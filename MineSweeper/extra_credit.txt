@@ -1,0 +1,5 @@
+1. I added a flag component to the Minesweeper game. The flag can be dragged with the mouse to a tile and a new flag is created
+   in its place. The image file of the flag should be in the same folder as the java file to show up correctly.
+
+2. I added different background colors for the visible tiles depending on how many mines they are bordering 
+   (Green = 0 mines bordering, Yellow = 1, etc.). 
